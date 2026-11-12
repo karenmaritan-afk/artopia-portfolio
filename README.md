@@ -96,3 +96,11 @@ I help freelancers, small businesses and non-profit organisations simplify workf
 ---
 
 *Projects are presented as personal work, prototypes or ongoing developments according to their current stage.*
+
+
+### Découvrir mes réalisations
+
+- 📊 [Cockpit Airtable — CRM & automatisation](projects/cockpit-airtable.md)
+- 🌿 [Ancrage — Application de bien-être émotionnel](projects/ancrage.md)
+- 🤖 [PostArs — Assistant IA multilingue](projects/postars.md)
+
